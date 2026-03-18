@@ -1,0 +1,12 @@
+Text: I am glad this happened
+Expected: joy, Detected: joy
+Text: I am really mad about this
+Expected: anger, Detected: anger
+Text: I feel disgusted just hearing about this
+Expected: disgust, Detected: disgust
+Text: I am so sad about this
+Expected: sadness, Detected: sadness
+Text: I am really afraid that this will happen
+Expected: fear, Detected: fear
+
+All tests passed!
